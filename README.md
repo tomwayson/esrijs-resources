@@ -16,6 +16,8 @@
 
 ### Angular 2
 * [Angular 2 with ArcGIS JS API](http://odoe.net/blog/angular-2-with-arcgis-js-api/)
+* [Angular 2 example app with ArcGIS JS API 4.x](https://github.com/jwasilgeo/angular2-esri-playground)
+* [Angular 2 example app with ArcGIS JS API 3.x](https://github.com/tomwayson/angular2-esri-example)
 
 ### Ember
 * [Ember with EsriJS](http://odoe.net/blog/ember-with-arcgis-api-for-javascript/)
